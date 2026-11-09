@@ -1,7 +1,7 @@
 ;; Task 1: move the red block from the table into the bin. (2 steps)
 (define (problem p01-move-to-bin)
   (:domain tabletop-single-arm)
-  (:objects red - item  t1 t2 t3 bin1 bin2 - place)
+  (:objects red - item  t1 t2 t3 bin1 bin2 - location)
   (:init (hand-empty) (table-spot t1) (table-spot t2) (table-spot t3) (reachable t1) (reachable t2) (reachable t3) (reachable bin1) (reachable bin2)
          (at red t1) (clear red)
          (free t2) (free t3) (free bin1) (free bin2))

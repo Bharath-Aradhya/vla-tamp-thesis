@@ -1,7 +1,7 @@
 ;; Task 3: build a tower: red on blue on green. (4 steps)
 (define (problem p03-three-tower)
   (:domain tabletop-single-arm)
-  (:objects red blue green - item  t1 t2 t3 bin1 bin2 - place)
+  (:objects red blue green - item  t1 t2 t3 bin1 bin2 - location)
   (:init (hand-empty) (table-spot t1) (table-spot t2) (table-spot t3) (reachable t1) (reachable t2) (reachable t3) (reachable bin1) (reachable bin2)
          (at red t1) (clear red) (at blue t2) (clear blue) (at green t3) (clear green)
          (free bin1) (free bin2))

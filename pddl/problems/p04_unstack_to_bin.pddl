@@ -1,0 +1,8 @@
+;; Task 4: red sits on blue. Put red in the bin and leave blue where it is. (2 steps)
+(define (problem p04-unstack-to-bin)
+  (:domain tabletop-single-arm)
+  (:objects red blue - item  t1 t2 t3 bin1 bin2 - place)
+  (:init (hand-empty) (table-spot t1) (table-spot t2) (table-spot t3) (reachable t1) (reachable t2) (reachable t3) (reachable bin1) (reachable bin2)
+         (at blue t1) (on red blue) (clear red)
+         (free t2) (free t3) (free bin1) (free bin2))
+  (:goal (and (at red bin1) (at blue t1))))

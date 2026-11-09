@@ -1,0 +1,13 @@
+# Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+
+# Third-party code and generated files (re-created by the scripts / setup steps)
+mujoco_menagerie/
+models/
+tools/
+
+# Output pictures from test runs
+*.png
+/*.csv

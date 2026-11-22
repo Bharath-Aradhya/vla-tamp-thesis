@@ -1,0 +1,76 @@
+action,slot,other_at,rep,ok,why,neighbour_disturbed,base_disturbed,neighbour_moved_m
+pick,t1,none,0,1,,0,0,0.0
+pick,t1,none,1,1,,0,0,0.0
+pick,t1,none,2,1,,0,0,0.0
+pick,t1,t2,0,1,,0,0,0.0041
+pick,t1,t2,1,1,,1,0,0.0288
+pick,t1,t2,2,1,,0,0,0.0134
+pick,t1,t3,0,1,,0,0,0.0
+pick,t1,t3,1,1,,0,0,0.0
+pick,t1,t3,2,1,,0,0,0.0
+pick,t1,bin1,0,0,not lifted,1,0,0.1685
+pick,t1,bin1,1,0,not lifted,1,0,0.1838
+pick,t1,bin1,2,0,not lifted,1,0,0.1824
+pick,t1,bin2,0,1,,0,0,0.0
+pick,t1,bin2,1,1,,0,0,0.0
+pick,t1,bin2,2,1,,0,0,0.0
+pick,t2,none,0,1,,0,0,0.0
+pick,t2,none,1,1,,0,0,0.0
+pick,t2,none,2,1,,0,0,0.0
+pick,t2,t1,0,1,,1,0,0.2628
+pick,t2,t1,1,1,,1,0,0.1304
+pick,t2,t1,2,1,,1,0,0.1095
+pick,t2,t3,0,1,,0,0,0.0052
+pick,t2,t3,1,1,,1,0,0.0282
+pick,t2,t3,2,1,,0,0,0.0142
+pick,t2,bin1,0,0,not lifted,1,0,0.1916
+pick,t2,bin1,1,0,not lifted,1,0,0.1627
+pick,t2,bin1,2,0,not lifted,1,0,0.2051
+pick,t2,bin2,0,1,,1,0,0.11
+pick,t2,bin2,1,0,not lifted,1,0,0.1837
+pick,t2,bin2,2,1,,1,0,0.1444
+pick,t3,none,0,1,,0,0,0.0
+pick,t3,none,1,1,,0,0,0.0
+pick,t3,none,2,1,,0,0,0.0
+pick,t3,t1,0,1,,1,0,0.0309
+pick,t3,t1,1,1,,1,0,0.0321
+pick,t3,t1,2,1,,1,0,0.0412
+pick,t3,t2,0,1,,1,0,0.1483
+pick,t3,t2,1,1,,1,0,0.0893
+pick,t3,t2,2,1,,1,0,0.1117
+pick,t3,bin1,0,0,not lifted,1,0,0.1654
+pick,t3,bin1,1,1,,1,0,0.1349
+pick,t3,bin1,2,1,,1,0,0.1618
+pick,t3,bin2,0,0,not lifted,1,0,0.1609
+pick,t3,bin2,1,0,not lifted,1,0,0.1551
+pick,t3,bin2,2,0,not lifted,1,0,0.1498
+pick,bin1,none,0,1,,0,0,0.0
+pick,bin1,none,1,1,,0,0,0.0
+pick,bin1,none,2,1,,0,0,0.0
+pick,bin1,t1,0,1,,0,0,0.0049
+pick,bin1,t1,1,1,,0,0,0.0013
+pick,bin1,t1,2,1,,0,0,0.0056
+pick,bin1,t2,0,1,,0,0,0.0
+pick,bin1,t2,1,1,,0,0,0.0
+pick,bin1,t2,2,1,,0,0,0.0
+pick,bin1,t3,0,1,,0,0,0.0
+pick,bin1,t3,1,1,,0,0,0.0
+pick,bin1,t3,2,1,,0,0,0.0
+pick,bin1,bin2,0,1,,0,0,0.0043
+pick,bin1,bin2,1,1,,1,0,0.0288
+pick,bin1,bin2,2,1,,0,0,0.0117
+pick,bin2,none,0,1,,0,0,0.0
+pick,bin2,none,1,1,,0,0,0.0
+pick,bin2,none,2,1,,0,0,0.0
+pick,bin2,t1,0,1,,1,0,0.0293
+pick,bin2,t1,1,1,,0,0,0.0165
+pick,bin2,t1,2,1,,0,0,0.0166
+pick,bin2,t2,0,1,,0,0,0.0062
+pick,bin2,t2,1,1,,0,0,0.0002
+pick,bin2,t2,2,1,,0,0,0.007
+pick,bin2,t3,0,1,,0,0,0.0
+pick,bin2,t3,1,1,,0,0,0.0
+pick,bin2,t3,2,1,,0,0,0.0
+pick,bin2,bin1,0,1,,1,0,0.2628
+pick,bin2,bin1,1,1,,1,0,0.1259
+pick,bin2,bin1,2,1,,1,0,0.1101

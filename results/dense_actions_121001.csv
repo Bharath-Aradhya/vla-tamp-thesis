@@ -1,0 +1,45 @@
+case,rep,stage,err_m,disturbed,moved_other_1_m,moved_other_2_m
+"place at t2 (red t1, green t3)",0,ok,0.005,,0.0182,0.0
+"place at t2 (red t1, green t3)",1,ok,0.004,red,0.0284,0.0
+"place at t2 (red t1, green t3)",2,ok,0.0053,red,0.022,0.0
+"place at t2 (red t1, green t3)",3,ok,0.005,red,0.0202,0.0
+place at t1 (green t2),0,ok,0.0037,,0.0
+place at t1 (green t2),1,ok,0.004,,0.0
+place at t1 (green t2),2,ok,0.004,,0.0
+place at t1 (green t2),3,ok,0.0039,,0.0
+place at t3 (green t2),0,landing failed,0.0762,green,0.0982
+place at t3 (green t2),1,ok,0.0161,green,0.0896
+place at t3 (green t2),2,ok,0.0014,green,0.0774
+place at t3 (green t2),3,landing failed,0.1002,green,0.0774
+place at bin2 (red bin1),0,pick failed (bar not lifted),0.2344,red,0.1991
+place at bin2 (red bin1),1,pick failed (bar not lifted),0.1821,red,0.1499
+place at bin2 (red bin1),2,pick failed (bar not lifted),0.1803,red,0.1473
+place at bin2 (red bin1),3,pick failed (bar not lifted),0.1715,red,0.1447
+place at bin1 (red bin2),0,ok,0.0055,,0.0043
+place at bin1 (red bin2),1,ok,0.0052,,0.0
+place at bin1 (red bin2),2,ok,0.0053,,0.0
+place at bin1 (red bin2),3,ok,0.005,,0.0
+stack on t2 (red t1),0,ok,0.0072,,0.0,0.0024
+stack on t2 (red t1),1,ok,0.0073,,0.0059,0.0025
+stack on t2 (red t1),2,ok,0.0066,,0.0034,0.0018
+stack on t2 (red t1),3,ok,0.0079,,0.0022,0.0025
+stack on t1 (red t2),0,ok,0.0053,,0.0,0.0022
+stack on t1 (red t2),1,ok,0.006,,0.0,0.0052
+stack on t1 (red t2),2,ok,0.0047,,0.0,0.0069
+stack on t1 (red t2),3,ok,0.0057,,0.0,0.0023
+stack on t3 (red t2),0,ok,0.0049,,0.0,0.0015
+stack on t3 (red t2),1,ok,0.006,,0.0007,0.0026
+stack on t3 (red t2),2,ok,0.0049,,0.0,0.0016
+stack on t3 (red t2),3,ok,0.0059,,0.0024,0.0022
+unstack at t2 (green t1),0,pick failed (bar not lifted),0.2366,red,0.037,0.0
+unstack at t2 (green t1),1,pick failed (bar not lifted),0.1597,red,0.0381,0.0001
+unstack at t2 (green t1),2,pick failed (bar not lifted),0.2422,red,0.0353,0.0
+unstack at t2 (green t1),3,pick failed (bar not lifted),0.2519,,0.0156,0.0
+unstack at t1 (green t2),0,pick failed (bar not lifted),0.2242,red,0.0401,0.0
+unstack at t1 (green t2),1,pick failed (bar not lifted),0.1735,red,0.0495,0.0
+unstack at t1 (green t2),2,pick failed (bar not lifted),0.2268,red,0.0336,0.0
+unstack at t1 (green t2),3,pick failed (bar not lifted),0.2281,,0.0189,0.0025
+unstack at t3 (green t2),0,ok,0.0067,red,0.0317,0.0
+unstack at t3 (green t2),1,carry failed (bar slipped in the hand),0.0101,green,0.0117,0.0821
+unstack at t3 (green t2),2,carry failed (bar slipped in the hand),0.0227,red,0.0342,0.0014
+unstack at t3 (green t2),3,pick failed (bar not lifted),0.3007,,0.0135,0.0

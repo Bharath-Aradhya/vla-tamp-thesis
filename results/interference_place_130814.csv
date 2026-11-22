@@ -1,0 +1,109 @@
+action,slot,other_at,rep,ok,why,neighbour_disturbed,base_disturbed,neighbour_moved_m
+place,t1,none,0,1,,0,0,0.0
+place,t1,none,1,1,,0,0,0.0
+place,t1,none,2,1,,0,0,0.0
+place,t1,t2,0,1,,0,0,0.0
+place,t1,t2,1,1,,0,0,0.0
+place,t1,t2,2,1,,0,0,0.0
+place,t1,t3,0,1,,0,0,0.0
+place,t1,t3,1,1,,0,0,0.0
+place,t1,t3,2,1,,0,0,0.0
+place,t1,bin1,0,0,landing failed,1,0,0.2857
+place,t1,bin1,1,1,,1,0,0.2708
+place,t1,bin1,2,0,landing failed,1,0,0.1638
+place,t1,bin2,0,1,,1,0,0.0213
+place,t1,bin2,1,1,,1,0,0.0904
+place,t1,bin2,2,1,,1,0,0.0326
+place,t1,c3,0,1,,0,0,0.0
+place,t1,c3,1,1,,0,0,0.0
+place,t1,c3,2,1,,0,0,0.0
+place,t2,none,0,1,,0,0,0.0
+place,t2,none,1,1,,0,0,0.0
+place,t2,none,2,1,,0,0,0.0
+place,t2,t1,0,1,,1,0,0.0264
+place,t2,t1,1,1,,1,0,0.0272
+place,t2,t1,2,1,,1,0,0.0303
+place,t2,t3,0,1,,0,0,0.0
+place,t2,t3,1,1,,0,0,0.0
+place,t2,t3,2,1,,0,0,0.0
+place,t2,bin1,0,0,source pick failed,1,0,0.1889
+place,t2,bin1,1,1,,1,0,0.169
+place,t2,bin1,2,0,source pick failed,1,0,0.2098
+place,t2,bin2,0,0,landing failed,1,0,0.0324
+place,t2,bin2,1,0,landing failed,1,0,0.0665
+place,t2,bin2,2,1,,1,0,0.0393
+place,t2,c3,0,1,,0,0,0.0
+place,t2,c3,1,1,,0,0,0.0
+place,t2,c3,2,1,,0,0,0.0
+place,t3,none,0,1,,0,0,0.0
+place,t3,none,1,1,,0,0,0.0
+place,t3,none,2,1,,0,0,0.0
+place,t3,t1,0,1,,0,0,0.018
+place,t3,t1,1,1,,1,0,0.0282
+place,t3,t1,2,1,,1,0,0.0306
+place,t3,t2,0,0,landing failed,1,0,0.0881
+place,t3,t2,1,0,landing failed,1,0,0.0689
+place,t3,t2,2,1,,1,0,0.0788
+place,t3,bin1,0,0,source pick failed,1,0,0.1889
+place,t3,bin1,1,0,landing failed,1,0,0.1642
+place,t3,bin1,2,0,source pick failed,1,0,0.2098
+place,t3,bin2,0,0,landing failed,1,0,0.0413
+place,t3,bin2,1,0,landing failed,1,0,0.1074
+place,t3,bin2,2,0,landing failed,1,0,0.0797
+place,t3,c3,0,1,,0,0,0.0
+place,t3,c3,1,1,,0,0,0.0
+place,t3,c3,2,1,,0,0,0.0
+place,bin1,none,0,1,,0,0,0.0
+place,bin1,none,1,1,,0,0,0.0
+place,bin1,none,2,1,,0,0,0.0
+place,bin1,t1,0,1,,1,0,0.0316
+place,bin1,t1,1,1,,0,0,0.0189
+place,bin1,t1,2,1,,0,0,0.0111
+place,bin1,t2,0,1,,0,0,0.0124
+place,bin1,t2,1,1,,1,0,0.03
+place,bin1,t2,2,1,,0,0,0.0183
+place,bin1,t3,0,1,,0,0,0.0
+place,bin1,t3,1,1,,0,0,0.0
+place,bin1,t3,2,1,,0,0,0.0
+place,bin1,bin2,0,1,,0,0,0.0
+place,bin1,bin2,1,1,,0,0,0.0
+place,bin1,bin2,2,1,,0,0,0.0
+place,bin1,c3,0,1,,0,0,0.0
+place,bin1,c3,1,1,,0,0,0.0
+place,bin1,c3,2,1,,0,0,0.0
+place,bin2,none,0,1,,0,0,0.0
+place,bin2,none,1,1,,0,0,0.0
+place,bin2,none,2,1,,0,0,0.0
+place,bin2,t1,0,1,,0,0,0.0173
+place,bin2,t1,1,1,,0,0,0.0015
+place,bin2,t1,2,1,,1,0,0.0303
+place,bin2,t2,0,1,,0,0,0.0
+place,bin2,t2,1,1,,0,0,0.0
+place,bin2,t2,2,1,,0,0,0.0
+place,bin2,t3,0,1,,0,0,0.0
+place,bin2,t3,1,1,,0,0,0.0
+place,bin2,t3,2,1,,0,0,0.0
+place,bin2,bin1,0,0,source pick failed,1,0,0.1889
+place,bin2,bin1,1,1,,1,0,0.1134
+place,bin2,bin1,2,0,source pick failed,1,0,0.2098
+place,bin2,c3,0,1,,0,0,0.0
+place,bin2,c3,1,1,,0,0,0.0
+place,bin2,c3,2,1,,0,0,0.0
+place,c3,none,0,1,,0,0,0.0
+place,c3,none,1,1,,0,0,0.0
+place,c3,none,2,1,,0,0,0.0
+place,c3,t1,0,1,,1,0,0.3275
+place,c3,t1,1,1,,1,0,0.1195
+place,c3,t1,2,1,,1,0,0.0913
+place,c3,t2,0,1,,1,0,0.0365
+place,c3,t2,1,1,,1,0,0.0991
+place,c3,t2,2,0,landing failed,1,0,0.0791
+place,c3,t3,0,1,,1,0,0.0348
+place,c3,t3,1,1,,1,0,0.0685
+place,c3,t3,2,1,,1,0,0.0177
+place,c3,bin1,0,0,source pick failed,1,0,0.1889
+place,c3,bin1,1,1,,1,0,0.1842
+place,c3,bin1,2,0,source pick failed,1,0,0.2098
+place,c3,bin2,0,1,,1,0,0.0863
+place,c3,bin2,1,1,,1,0,0.0792
+place,c3,bin2,2,1,,1,0,0.0961

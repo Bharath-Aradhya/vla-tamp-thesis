@@ -1,0 +1,25 @@
+friction,base,stack,unstack,unstack_err_m,base_shift_m
+0.6,t1,ok,landing failed (base bar was knocked),0.0062,0.0633
+0.6,t1,ok,landing failed (base bar was knocked),0.029,0.044
+0.6,t1,ok,ok,0.0052,0.0132
+0.6,t1,ok,ok,0.0049,0.0124
+0.6,t2,pick failed (bar not lifted),not tried,nan,nan
+0.6,t2,ok,pick failed (bar not lifted),nan,0.0028
+0.6,t2,ok,ok,0.0053,0.0131
+0.6,t2,ok,ok,0.0065,0.0194
+0.6,t3,ok,ok,0.0061,0.0155
+0.6,t3,ok,landing failed (base bar was knocked),0.0142,0.0372
+0.6,t3,ok,ok,0.0061,0.0194
+0.6,t3,ok,ok,0.006,0.018
+0.4,t1,ok,landing failed (base bar was knocked),0.005,0.0762
+0.4,t1,ok,landing failed (base bar was knocked),0.0062,0.0249
+0.4,t1,ok,ok,0.0052,0.0051
+0.4,t1,ok,ok,0.0091,0.0193
+0.4,t2,pick failed (bar not lifted),not tried,nan,nan
+0.4,t2,ok,pick failed (bar not lifted),nan,0.0013
+0.4,t2,ok,ok,0.0053,0.0044
+0.4,t2,ok,ok,0.0057,0.012
+0.4,t3,ok,ok,0.0062,0.0122
+0.4,t3,ok,pick failed (bar not lifted),nan,0.0004
+0.4,t3,ok,ok,0.0061,0.016
+0.4,t3,ok,ok,0.0059,0.0153

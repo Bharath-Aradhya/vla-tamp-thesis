@@ -1,0 +1,25 @@
+unstack_dz_m,src,base,stack,unstack,unstack_err_m,base_shift_m
+0.0,bin1,t1,ok,carry failed (arm could not reach the target),0.0785,0.0456
+0.0,bin2,t1,ok,carry failed (arm could not reach the target),0.0298,0.0145
+0.0,bin1,t2,ok,landing failed (base bar was knocked),0.0048,0.02
+0.0,bin2,t2,landing failed (base bar was knocked),not tried,nan,0.0201
+0.0,bin1,t3,ok,pick failed (bar not lifted),nan,0.0045
+0.0,bin2,t3,ok,landing failed (base bar was knocked),0.0137,0.037
+0.008,bin1,t1,ok,carry failed (arm could not reach the target),0.0756,0.0754
+0.008,bin2,t1,ok,carry failed (arm could not reach the target),0.0288,0.057
+0.008,bin1,t2,ok,landing failed (base bar was knocked),0.0041,0.0852
+0.008,bin2,t2,landing failed (base bar was knocked),not tried,nan,0.0201
+0.008,bin1,t3,ok,pick failed (bar not lifted),nan,0.0045
+0.008,bin2,t3,ok,pick failed (bar not lifted),nan,0.0043
+0.012,bin1,t1,ok,carry failed (arm could not reach the target),0.1012,0.0463
+0.012,bin2,t1,ok,carry failed (arm could not reach the target),0.0315,0.0361
+0.012,bin1,t2,ok,landing failed (base bar was knocked),0.0042,0.0434
+0.012,bin2,t2,landing failed (base bar was knocked),not tried,nan,0.0201
+0.012,bin1,t3,ok,pick failed (bar not lifted),nan,0.0045
+0.012,bin2,t3,ok,pick failed (bar not lifted),nan,0.0043
+0.016,bin1,t1,ok,carry failed (arm could not reach the target),0.1347,0.0454
+0.016,bin2,t1,ok,carry failed (arm could not reach the target),0.0326,0.0141
+0.016,bin1,t2,ok,landing failed (base bar was knocked),0.0041,0.0432
+0.016,bin2,t2,landing failed (base bar was knocked),not tried,nan,0.0201
+0.016,bin1,t3,ok,pick failed (bar not lifted),nan,0.0045
+0.016,bin2,t3,ok,pick failed (bar not lifted),nan,0.0043

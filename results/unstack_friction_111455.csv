@@ -1,0 +1,49 @@
+friction,base,stack,unstack,unstack_err_m,base_shift_m
+1.0,t1,ok,carry failed (arm could not reach the target),0.0317,0.0413
+1.0,t1,ok,carry failed (arm could not reach the target),0.0535,0.0145
+1.0,t1,ok,carry failed (arm could not reach the target),0.0379,0.0166
+1.0,t1,ok,carry failed (arm could not reach the target),0.122,0.0192
+1.0,t2,pick failed (bar not lifted),not tried,nan,nan
+1.0,t2,ok,landing failed (base bar was knocked),0.0063,0.0379
+1.0,t2,ok,landing failed (base bar was knocked),0.0045,0.0334
+1.0,t2,ok,landing failed (base bar was knocked),0.006,0.0271
+1.0,t3,ok,ok,0.0063,0.0183
+1.0,t3,ok,pick failed (bar not lifted),nan,0.0044
+1.0,t3,ok,landing failed (base bar was knocked),0.0043,0.0904
+1.0,t3,ok,landing failed (base bar was knocked),0.0053,0.0979
+0.6,t1,ok,carry failed (arm could not reach the target),0.0417,0.0176
+0.6,t1,ok,ok,0.0027,0.0124
+0.6,t1,ok,carry failed (arm could not reach the target),0.0384,0.013
+0.6,t1,ok,carry failed (arm could not reach the target),0.0509,0.0125
+0.6,t2,pick failed (bar not lifted),not tried,nan,nan
+0.6,t2,ok,pick failed (bar not lifted),nan,0.0028
+0.6,t2,ok,ok,0.0051,0.0131
+0.6,t2,ok,ok,0.006,0.0192
+0.6,t3,ok,ok,0.0071,0.0154
+0.6,t3,ok,carry failed (bar slipped in the hand),0.0169,0.037
+0.6,t3,ok,ok,0.0066,0.0189
+0.6,t3,ok,ok,0.0066,0.0176
+0.4,t1,ok,carry failed (arm could not reach the target),0.0346,0.0073
+0.4,t1,ok,carry failed (arm could not reach the target),0.0426,0.0326
+0.4,t1,ok,carry failed (arm could not reach the target),0.0633,0.0054
+0.4,t1,ok,carry failed (arm could not reach the target),0.0766,0.024
+0.4,t2,pick failed (bar not lifted),not tried,nan,nan
+0.4,t2,ok,pick failed (bar not lifted),nan,0.0013
+0.4,t2,ok,ok,0.0054,0.0044
+0.4,t2,ok,ok,0.006,0.0117
+0.4,t3,ok,ok,0.0071,0.0121
+0.4,t3,ok,landing failed (base bar was knocked),0.0272,0.02
+0.4,t3,ok,ok,0.0064,0.0155
+0.4,t3,ok,ok,0.0062,0.0149
+0.25,t1,ok,carry failed (arm could not reach the target),0.0674,0.0047
+0.25,t1,ok,pick failed (bar not lifted),nan,0.001
+0.25,t1,ok,carry failed (arm could not reach the target),0.0925,0.003
+0.25,t1,ok,pick failed (bar not lifted),nan,0.0009
+0.25,t2,pick failed (bar not lifted),not tried,nan,nan
+0.25,t2,ok,pick failed (bar not lifted),nan,0.0005
+0.25,t2,ok,ok,0.0053,0.0012
+0.25,t2,ok,ok,0.0059,0.0018
+0.25,t3,ok,ok,0.0062,0.0015
+0.25,t3,ok,landing failed (bar toppled or not on the table),0.037,0.0017
+0.25,t3,ok,ok,0.0058,0.0022
+0.25,t3,ok,ok,0.006,0.002

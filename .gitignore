@@ -11,3 +11,4 @@ tools/
 # Output pictures from test runs
 *.png
 /*.csv
+models/_*.xml

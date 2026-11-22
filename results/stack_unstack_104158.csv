@@ -1,0 +1,19 @@
+src,base,src_x,src_y,base_x,base_y,yaw_top_deg,yaw_base_deg,stack,stack_err_m,stack_z_m,unstack,unstack_err_m,base_shift_m
+bin1,t1,0.325,-0.246,0.329,-0.159,62.1,83.0,ok,0.0071,0.9,pick failed (bar not lifted),nan,0.0083
+bin1,t1,0.32,-0.253,0.322,-0.145,10.1,9.8,ok,0.0062,0.9,carry failed (arm could not reach the target),0.0487,0.046
+bin1,t1,0.323,-0.259,0.311,-0.154,19.0,69.9,ok,0.0067,0.9,carry failed (arm could not reach the target),0.0614,0.0315
+bin2,t1,0.406,-0.257,0.313,-0.153,47.7,48.8,ok,0.0072,0.9,carry failed (arm could not reach the target),0.023,0.0156
+bin2,t1,0.398,-0.251,0.317,-0.155,55.9,24.2,landing failed (bar slid off the base),0.0574,0.775,not tried,nan,0.0316
+bin2,t1,0.398,-0.25,0.316,-0.153,21.8,23.8,landing failed (bar slid off the base),0.0583,0.775,not tried,nan,0.032
+bin1,t2,0.315,-0.254,0.404,-0.157,55.7,44.9,ok,0.0094,0.9,landing failed (base bar was knocked),0.0048,0.0351
+bin1,t2,0.314,-0.253,0.397,-0.154,10.1,50.6,ok,0.0087,0.9,landing failed (base bar was knocked),0.0044,0.0874
+bin1,t2,0.322,-0.257,0.391,-0.15,35.0,12.1,ok,0.0079,0.9,landing failed (base bar was knocked),0.0058,0.0323
+bin2,t2,0.392,-0.24,0.406,-0.148,38.3,84.0,ok,0.009,0.9,pick failed (bar not lifted),nan,0.0175
+bin2,t2,0.401,-0.248,0.396,-0.149,59.3,67.7,ok,0.0084,0.9,landing failed (base bar was knocked),0.0042,0.0328
+bin2,t2,0.404,-0.242,0.392,-0.141,52.7,28.3,landing failed (bar slid off the base),0.0483,0.775,not tried,nan,0.0384
+bin1,t3,0.325,-0.258,0.473,-0.14,73.8,85.2,ok,0.0061,0.9,pick failed (bar not lifted),nan,0.0039
+bin1,t3,0.315,-0.251,0.476,-0.141,85.1,70.4,ok,0.0062,0.9,landing failed (base bar was knocked),0.0079,0.056
+bin1,t3,0.311,-0.255,0.484,-0.152,8.9,87.5,ok,0.0065,0.9,pick failed (bar not lifted),nan,0.0042
+bin2,t3,0.393,-0.258,0.481,-0.155,28.4,29.7,ok,0.0083,0.9,landing failed (base bar was knocked),0.0117,0.0238
+bin2,t3,0.399,-0.248,0.487,-0.151,61.1,65.7,ok,0.0072,0.9,landing failed (base bar was knocked),0.0056,0.0348
+bin2,t3,0.399,-0.258,0.488,-0.152,81.7,42.8,ok,0.0068,0.9,landing failed (base bar was knocked),0.086,0.0307

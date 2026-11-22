@@ -24,7 +24,7 @@ SLOTS = {"t1": (0.32, -0.15), "t2": (0.40, -0.15), "t3": (0.48, -0.15), "bin1": 
 FRICTION = 0.6
 YAW_BAD = (38.0, 54.0)
 BAR_H = 0.10
-PARK = (0.40, 0.35)            # where an unused bar is put (off the table, it falls to the floor)
+PARK = (3.0, 3.0)              # where an unused bar is put: far from the table and out of every camera view (it drops to the floor)
 LIFT_BY = 0.12                 # lift after grasping: carried bars clear the 10 cm bars standing next to them
 START_JITTER = 0.005
 

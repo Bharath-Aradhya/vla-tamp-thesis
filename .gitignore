@@ -12,3 +12,4 @@ tools/
 *.png
 /*.csv
 models/_*.xml
+demos/

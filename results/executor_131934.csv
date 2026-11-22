@@ -1,0 +1,16 @@
+task,rep,seed,success,skills,replans,first_plan_len,reason
+p01,0,6000,1,2,0,2,goal reached
+p01,1,6001,1,2,0,2,goal reached
+p01,2,6002,1,2,0,2,goal reached
+p01,3,6003,1,2,0,2,goal reached
+p01,4,6004,1,2,0,2,goal reached
+p02,0,6000,1,2,0,2,goal reached
+p02,1,6001,0,1,1,2,no plan (lost: blue)
+p02,2,6002,1,2,0,2,goal reached
+p02,3,6003,1,2,0,2,goal reached
+p02,4,6004,0,1,1,2,no plan (lost: blue)
+p05,0,6000,0,2,1,6,"no plan (lost: red, blue)"
+p05,1,6001,0,1,1,6,no plan (lost: blue)
+p05,2,6002,0,2,1,6,"no plan (lost: red, blue)"
+p05,3,6003,0,2,1,6,no plan (lost: blue)
+p05,4,6004,0,1,1,6,no plan (lost: blue)

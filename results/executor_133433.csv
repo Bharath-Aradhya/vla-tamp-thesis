@@ -1,0 +1,51 @@
+task,rep,seed,success,skills,replans,first_plan_len,first_deviation_after,reason
+p01,0,6000,1,2,0,2,,goal reached
+p01,1,6001,1,2,0,2,,goal reached
+p01,2,6002,1,2,0,2,,goal reached
+p01,3,6003,1,2,0,2,,goal reached
+p01,4,6004,1,2,0,2,,goal reached
+p01,5,6005,1,2,0,2,,goal reached
+p01,6,6006,1,2,0,2,,goal reached
+p01,7,6007,1,2,0,2,,goal reached
+p01,8,6008,1,2,0,2,,goal reached
+p01,9,6009,1,2,0,2,,goal reached
+p02,0,6000,1,2,0,2,,goal reached
+p02,1,6001,1,2,0,2,,goal reached
+p02,2,6002,1,2,0,2,,goal reached
+p02,3,6003,1,2,0,2,,goal reached
+p02,4,6004,1,2,0,2,,goal reached
+p02,5,6005,1,2,0,2,,goal reached
+p02,6,6006,1,2,0,2,,goal reached
+p02,7,6007,1,2,0,2,,goal reached
+p02,8,6008,1,2,0,2,,goal reached
+p02,9,6009,1,2,0,2,,goal reached
+p08,0,6000,0,3,1,4,pick-t2 blue,no plan (lost: blue [off-slot 12 cm])
+p08,1,6001,0,4,1,4,stack blue red,"no plan (lost: red [fallen or tilted], blue [fallen or tilted], green [fallen or tilted])"
+p08,2,6002,0,2,1,4,stack red green,no plan (lost: red [fallen or tilted])
+p08,3,6003,1,4,0,4,,goal reached
+p08,4,6004,0,4,1,4,stack blue red,"no plan (lost: red [fallen or tilted], green [fallen or tilted])"
+p08,5,6005,0,6,2,4,stack red green,"no plan (lost: red [fallen or tilted], green [fallen or tilted])"
+p08,6,6006,0,3,1,4,pick-t2 blue,no plan (lost: blue [fallen or tilted])
+p08,7,6007,0,4,1,4,stack blue red,"no plan (lost: red [fallen or tilted], blue [fallen or tilted], green [fallen or tilted])"
+p08,8,6008,1,4,0,4,,goal reached
+p08,9,6009,0,4,1,4,stack blue red,"no plan (lost: red [fallen or tilted], blue [fallen or tilted])"
+p09,0,6000,0,3,1,4,pick-t2 blue,no plan (lost: blue [off-slot 12 cm])
+p09,1,6001,1,4,0,4,,goal reached
+p09,2,6002,0,2,1,4,stack red green,no plan (lost: red [fallen or tilted])
+p09,3,6003,1,4,0,4,,goal reached
+p09,4,6004,1,4,0,4,,goal reached
+p09,5,6005,1,6,1,4,stack red green,goal reached
+p09,6,6006,0,3,1,4,pick-t2 blue,no plan (lost: blue [fallen or tilted])
+p09,7,6007,1,4,0,4,,goal reached
+p09,8,6008,1,4,0,4,,goal reached
+p09,9,6009,0,4,1,4,place-bin2 blue,no plan (lost: blue [fallen or tilted])
+p10,0,6000,0,3,1,4,pick-t2 blue,no plan (lost: blue [off-slot 12 cm])
+p10,1,6001,1,4,0,4,,goal reached
+p10,2,6002,0,2,1,4,stack red green,no plan (lost: red [fallen or tilted])
+p10,3,6003,1,4,0,4,,goal reached
+p10,4,6004,1,4,0,4,,goal reached
+p10,5,6005,1,6,1,4,stack red green,goal reached
+p10,6,6006,0,3,1,4,pick-t2 blue,no plan (lost: blue [fallen or tilted])
+p10,7,6007,1,4,0,4,,goal reached
+p10,8,6008,1,4,0,4,,goal reached
+p10,9,6009,1,4,0,4,,goal reached

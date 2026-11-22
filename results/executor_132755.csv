@@ -1,0 +1,26 @@
+task,rep,seed,success,skills,replans,first_plan_len,reason
+p01,0,6000,1,2,0,2,goal reached
+p01,1,6001,1,2,0,2,goal reached
+p01,2,6002,1,2,0,2,goal reached
+p01,3,6003,1,2,0,2,goal reached
+p01,4,6004,1,2,0,2,goal reached
+p02,0,6000,1,2,0,2,goal reached
+p02,1,6001,0,1,1,2,no plan (lost: blue [off-slot 3 cm])
+p02,2,6002,1,2,0,2,goal reached
+p02,3,6003,1,2,0,2,goal reached
+p02,4,6004,1,2,0,2,goal reached
+p08,0,6000,0,3,1,4,no plan (lost: blue [off-slot 12 cm])
+p08,1,6001,0,1,1,4,no plan (lost: blue [off-slot 3 cm])
+p08,2,6002,0,2,1,4,no plan (lost: red [fallen or tilted])
+p08,3,6003,0,3,1,4,no plan (lost: green [off-slot 4 cm])
+p08,4,6004,0,4,1,4,"no plan (lost: red [fallen or tilted], green [fallen or tilted])"
+p09,0,6000,0,3,1,4,no plan (lost: blue [off-slot 12 cm])
+p09,1,6001,0,1,1,4,no plan (lost: blue [off-slot 3 cm])
+p09,2,6002,0,2,1,4,no plan (lost: red [fallen or tilted])
+p09,3,6003,0,3,1,4,no plan (lost: green [off-slot 4 cm])
+p09,4,6004,1,4,0,4,goal reached
+p10,0,6000,0,3,1,4,no plan (lost: blue [off-slot 12 cm])
+p10,1,6001,0,1,1,4,no plan (lost: blue [off-slot 3 cm])
+p10,2,6002,0,2,1,4,no plan (lost: red [fallen or tilted])
+p10,3,6003,0,3,1,4,no plan (lost: green [off-slot 4 cm])
+p10,4,6004,1,4,0,4,goal reached
